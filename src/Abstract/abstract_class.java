@@ -1,15 +1,15 @@
 package Abstract;
 
 
-    abstract class animal {
-        animal() {
+    abstract class Animal1 {
+        Animal1() {
             System.out.println("Sound");
         }
 
         public abstract void sound();
     }
 
-    class Dog extends animal {
+    class Dog extends Animal1 {
         Dog() {
             super();
         }
@@ -19,7 +19,7 @@ package Abstract;
         }
     }
 
-    class Lion extends animal {
+    class Lion extends Animal1 {
         Lion() {
             super();
         }
@@ -30,11 +30,10 @@ package Abstract;
     }
 public class abstract_class {
     public static void main(String[] args) {
-        Dog d = new Dog();
-        Lion l = new Lion();
+        Animal1 d = new Dog();
+        Animal1 l = new Lion();
 
         d.sound();
-        System.out.println("-------");
         l.sound();
 
     }

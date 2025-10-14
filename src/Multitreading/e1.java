@@ -5,7 +5,7 @@ public class e1 {
         System.out.println("-------------");
         System.out.println(Thread.currentThread().getClass());
         System.out.println(Thread.currentThread().getState());
-        System.out.println(Thread.currentThread().getName());
+        System.out.println(Thread.currentThread().getName()  );
 
     }
 }
