@@ -1,17 +1,32 @@
--> OOPs in Java 
-A complete collection of Java programs demonstrating Object-Oriented Programming concepts.
+## 🚀 About This Repository
 
-This repository contains examples  to understand Object-Oriented Programming (OOP) in Java.  
-It covers Encapsulation, Inheritance, Polymorphism, and Abstraction with real-world examples.
+This repository includes:
+- Basic to advanced OOPs concepts in Java  
+- Code examples for each principle  
+- Real-life examples and mini exercises  
+- Practice programs for interview preparation  
 
--> Features
-- Beginner-friendly code examples
-- Covers all four main OOP principles
-- Includes real-world inspired mini-projects
-- Clear and well-structured folder organization
+---
 
--> OOP Concepts Covered
-1. Encapsulation– Getters, Setters, Data Hiding
-2. Inheritance – Single, Multilevel, Hierarchical
-3. Polymorphism – Overloading, Overriding
-4. Abstraction – Abstract Classes, Interfaces
+## 🧠 Core OOPs Concepts in Java
+
+| Concept | Description |
+|----------|-------------|
+| 🔹 **Class & Object** | Blueprint and instance representing real-world entities |
+| 🔹 **Encapsulation** | Binding data and methods together using classes & access modifiers |
+| 🔹 **Inheritance** | Reusing code by deriving new classes from existing ones |
+| 🔹 **Polymorphism** | Same method behaving differently (method overloading & overriding) |
+| 🔹 **Abstraction** | Hiding implementation details using abstract classes and interfaces |
+
+---
+
+## 📘 Additional Topics Covered
+
+- Constructors and `this` keyword  
+- Method Overloading and Overriding  
+- Static vs Non-static members  
+- Access Modifiers (public, private, protected, default)  
+- Final keyword (variable, method, class)  
+- Abstract Classes & Interfaces  
+- `super` and `this` usage  
+- Packages and Importing Classes 
